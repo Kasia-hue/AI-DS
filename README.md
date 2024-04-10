@@ -6,3 +6,4 @@ In this repository there are learning resources for members of Artificial Intell
 * s3 - Algorithms of classification - when and how use them.
 * s4 - Ensemble learning - voting, bagging, boosting, stacking.
 * s5 - Regression - types of regression, regression algorithms, ensemble regression, model evaluation.
+* s6 - First project - project topics for classification and regression tasks, data preprocessing
