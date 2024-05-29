@@ -6,4 +6,8 @@ In this repository there are learning resources for members of Artificial Intell
 * s3 - Algorithms of classification - when and how use them.
 * s4 - Ensemble learning - voting, bagging, boosting, stacking.
 * s5 - Regression - types of regression, regression algorithms, ensemble regression, model evaluation.
-* s6 - First project - project topics for classification and regression tasks, data preprocessing
+* s6 - First project - project topics for classification and regression tasks, data preprocessing.
+* s7 - Introduction to Artificial Neural Networks.
+* s8 - Preventing overfitting in Deep Neural Networks.
+* s9 - Introduction to Convolutional Neural Networks.
+* s10 - Practice CNNs on CIFAR-10 dataset.
